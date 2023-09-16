@@ -1,27 +1,16 @@
-# Loginsignupfirebase
+# Login and Signup using Angular CLI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+In this GitHub repository, I have created a login and signup page using Angular CLI and Google's Firebase. 
 
-## Development server
+The user is able  to create an account, login his/her account, and reset his/her password. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This is a laboratory activity in Software Engineering subject.
 
-## Code scaffolding
+Login Page:
+![image](https://github.com/nvaeili/Login-Signup-Using-Firebase/assets/105968885/22758750-2f3b-4d3e-97a9-39ad4e561f76)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Sign up Page:
+![image](https://github.com/nvaeili/Login-Signup-Using-Firebase/assets/105968885/7d562cea-e865-4a4b-ae12-c7c45d1a8ec6)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Forgot Password Page:
+![image](https://github.com/nvaeili/Login-Signup-Using-Firebase/assets/105968885/61f3e4f6-2fa4-4f4c-be3e-34451fda2654)
